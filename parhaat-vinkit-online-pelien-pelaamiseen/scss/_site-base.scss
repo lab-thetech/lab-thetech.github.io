@@ -1,9 +1,11 @@
 html {
 	overflow-x: hidden;
 }
+body {
 	line-height: 1.7;
 	color: lighten($black, 50%);
 	font-weight: 300;
+	font-size: .9rem;
 }
 ::-moz-selection { 
 	background: $black;
